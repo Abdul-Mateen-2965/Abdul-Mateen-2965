@@ -39,6 +39,20 @@ Follow them in every session. The count shows how many times I said each one.
 9. **Leave out Power BI.** (1 time: 10 Nov)
    My words: "no need of power BI i have not used it."
 
+12. **Use only facts from the CV attached in this chat and my answers.**
+    If a job description needs something my CV does not show, ask me "Do you
+    have experience with X?" and wait. Never mix in anyone else's CV.
+
+13. **CV format: ATS-friendly, exactly 2 pages, sent as PDF and Word.**
+    Cover letters go as plain text in the chat. Headlines: 3 options in 3 styles.
+
+14. **The certificate is "Cisco Certified Network Associate Cybersecurity".**
+    Do not write "CyberOps Associate".
+
+15. **No email or phone number in LinkedIn posts. Use Riyadh and Saudi hashtags.**
+
+The full working playbook for this is in `.claude/skills/fable-playbook/SKILL.md`.
+
 ## Style
 
 10. **LinkedIn About sections must be catchy and eye-catching.** (3 times: 9 Nov)

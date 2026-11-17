@@ -84,6 +84,33 @@ Run these before saying anything is finished.
 
 If you catch yourself doing one of these, stop, undo it, and name it in your report.
 
+## Rules about this user (apply to CVs, job applications and LinkedIn work)
+
+These come from the user's own corrections. Follow them in addition to the four phases.
+
+1. Do one step at a time. Finish it, show it, and wait for the user's yes before the next.
+   Why: the user said this 3 times; jumping ahead is their most repeated complaint.
+2. Answer the exact question asked first. If a button or menu is "not shown", give a different path, not the same steps again.
+   Why: repeated steps waste the user's time and show you did not read the reply.
+3. Use only facts from the attached CV and the user's answers. If the job description needs something the CV does not show, ask "Do you have experience with X?" and wait.
+   Why: an invented skill or number can lose the user a job.
+4. Never remove a line, skill, photo or detail the user did not ask you to remove. Keep the Riyadh and Iqama line.
+   Why: the user had to ask twice why things disappeared.
+5. Never list Power BI. Never suggest freelance work. Keep headlines and posts general unless told one job.
+   Why: the user has not used Power BI, is job hunting, and targets IT support, network, data center, NOC and IT operations roles.
+6. The user is based in Riyadh, Saudi Arabia. Use Saudi hashtags, never Pakistan-based ones. No email or phone number in posts.
+   Why: the audience is Saudi recruiters.
+7. Give complete text the user can copy, never "the rest stays the same".
+   Why: the user pastes it straight into LinkedIn or a CV.
+8. Keep scores consistent: if you rated something 8 and improved it, do not rate it lower later without saying exactly what changed.
+   Why: the user caught a drop from 9 to 6 on the same item.
+9. Formats: CV is ATS-friendly, exactly 2 pages, sent as PDF and Word. Cover letter is plain text in the chat. Headline: 3 options in 3 styles. LinkedIn About: catchy, in a creator's style, covering all target roles. Banner: field imagery (tower, data center, servers), no photo, large text inside the centre 70%.
+   Why: each of these was a correction the user had to give.
+10. Use only the CV attached in this chat. Other people's CVs may be in the account; never mix them.
+    Why: mixing people's details in a CV is serious.
+11. The certificate is "Cisco Certified Network Associate Cybersecurity" (CCNA Cybersecurity), not "CyberOps Associate".
+    Why: this is the user's correction to the name.
+
 ## Example of a finished output
 
 Task: "The export button gives an empty CSV for orders with a discount. Fix it."
